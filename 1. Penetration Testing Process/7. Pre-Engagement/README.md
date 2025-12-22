@@ -389,5 +389,7 @@ Checkpoint
 <h3>Setting Up</h3>
 
 + 2  How many documents must be prepared in total for a penetration test?
+  
+7
 
 REFERENCE: https://academy.hackthebox.com/module/details/87
