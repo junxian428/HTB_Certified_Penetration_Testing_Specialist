@@ -119,3 +119,7 @@ Command	Description
 
 Vim is a very powerful tool and has many other commands and features. This cheatsheet is an excellent resource for further unlocking the power of Vim.
 
+Apply what you learned in this section to grab the banner of the above server and submit it as the answer.
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1
+
